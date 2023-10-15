@@ -1,3 +1,1 @@
-r
-eddd
-fdgdgf
+Registration and autorisation on php
